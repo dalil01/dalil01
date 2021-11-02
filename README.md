@@ -11,7 +11,9 @@ My name is Dalil CHABLIS, I am passionate about everything related to computer s
 <div style="width: 100%; background-color: grey;">
   <div style="display: flex; align-items: center; justify-content: space-between">
     <img style="height: 160px" src="https://github-readme-stats.vercel.app/api?username=dalil01&show_icons=true&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+    <!--
     <img style="height: 160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalil01&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+-->
   </div>
 </div>
 
