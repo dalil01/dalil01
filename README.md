@@ -8,11 +8,12 @@ My name is Dalil CHABLIS, I am passionate about everything related to computer s
 
 > Most of my personal projects are private at the moment.
 
-<div style="width: 100%; background-color: grey;">
-  <div style="display: flex; align-items: center; justify-content: space-between">
-    <img style="height: 160px" src="https://github-readme-stats.vercel.app/api?username=dalil01&show_icons=true&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
-  </div>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dalil01&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalil01&langs_count=3&hide_title=true&hide_border=true" />
+</a>
 
 <br/>
 
