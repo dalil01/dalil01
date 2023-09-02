@@ -2,6 +2,8 @@
 
 My name is Dalil CHABLIS, I am passionate about everything related to computer science, but for the moment, my interests are rather in the field of web.
 
+My personal website : https://dalilchablis.com/
+
 📍  Find here all my personal projects and contributions.
 
 ## &#x1f4c8; GitHub Stats
@@ -12,6 +14,6 @@ My name is Dalil CHABLIS, I am passionate about everything related to computer s
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dalil01&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
 </a>
 
-<br/>
+>
 
 > My professional or school projects are on <a href="https://gitlab.com/dalil01" target="_blank">GitLab</a>.
